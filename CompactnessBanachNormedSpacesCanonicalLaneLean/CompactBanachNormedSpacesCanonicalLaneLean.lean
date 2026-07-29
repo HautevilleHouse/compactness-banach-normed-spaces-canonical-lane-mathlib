@@ -1,0 +1,9 @@
+import CompactBanachNormedSpacesCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CompactBanachNormedSpacesCanonicalLaneLean
+
+-- Root module of the Compactness Banach Normed Spaces repository.
+
+end CompactBanachNormedSpacesCanonicalLaneLean
+end HautevilleHouse
